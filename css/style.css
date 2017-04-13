@@ -1,0 +1,19 @@
+hr {
+    border-width: 4px;
+    border-color: #7d97ad;
+}
+#logoImg {
+    margin-top: 10px;
+}
+#mainImg {
+    width: 100vmax;
+}
+#image1,
+#image2,
+#image3 {
+}
+.name,
+.jobTitle {
+    text-align: right;
+    text-transform: uppercase;
+}

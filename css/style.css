@@ -1,15 +1,28 @@
+body {
+    color: #2d3c49;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+
+}
 hr {
     border-width: 4px;
     border-color: #7d97ad;
 }
 #logoImg {
     margin-top: 10px;
+    color: #02b3e4;
 }
 #mainImg {
     width: 100vmax;
+}
+#secondaryTitle {
+    color: #7d97ad;
 }
 .name,
 .jobTitle {
     text-align: right;
     text-transform: uppercase;
+}
+.name {
+    font-weight: 100;
 }
